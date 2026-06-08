@@ -9,6 +9,7 @@ At the end of the project, the hope is to be able to attribute to actors and dir
 - How their presence in a given film effects the critical reception
 - The net outcome on film revenue with respect to an individual's salary
 - Outside of critical response, how well is an individual received by the general public
+
 Aside from simply tallying totals and adjusting for inflation, the goal is to normalize the data to reflect the market at the time the film was made. This is reminiscent of baseball's WAR statistic, pioneered by Sean Smith in 2010, whose work still serves as the foundation of one of baseball's most exciting and total measurement's of a player's skill today.
 
 ## Data
