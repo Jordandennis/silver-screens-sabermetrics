@@ -1,4 +1,4 @@
-# Silver Screens Moneyball
+# Silver Screens Sabermetrics
 A personal project by Jordan Dennis
 
 ## Summary
